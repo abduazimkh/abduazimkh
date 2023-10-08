@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/abduazim8253](https://app.netlify.com/teams/abduazim8253/overview)
 
-- 📝 I regularly write articles on [https://t.me/baxtiyorov_blog](https://t.me/baxtiyorov_blog)
+- 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
 
 - 💬 Ask me about **React, NodeJS, NestJs, Knex, PostgreSQL, MongoDB**
 
