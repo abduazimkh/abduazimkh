@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **React**
 
-- 👨‍💻 All of my projects are available at [](https://app.netlify.com/teams/abduazim8253/overview)
+- 👨‍💻 All of my projects are available at [netlify](https://app.netlify.com/teams/abduazim8253/overview)
 
 - 📝 I regularly write articles on [https://t.me/baxtiyorov_blog](https://t.me/baxtiyorov_blog)
 
