@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Nextjs, TypeScripy, Astro**
 
-- 📫 How to reach me **baxtiyorovsherozbek1111@gmail.com**
+- 📫 How to reach me **azimjon8253@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
