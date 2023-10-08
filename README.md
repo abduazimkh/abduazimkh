@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
 
-- 💬 Ask me about **React, NodeJS, NestJs, Knex, PostgreSQL, MongoDB**
+- 💬 Ask me about **React, Nextjs, TypeScripy, Astro**
 
 - 📫 How to reach me **baxtiyorovsherozbek1111@gmail.com**
 
