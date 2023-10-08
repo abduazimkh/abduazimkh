@@ -2,7 +2,7 @@
 <h1 align="center">Assalamu Alaykum 👋, I'm Abduazim</h1>
 <h3 align="center">A hardworking front end developer from Uzbekistan</h3>
 
-- 🌱 I'm currently learning **TypeScript**
+- 🌱 I'm currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://sherozbek-dev.netlify.app/]((https://app.netlify.com/teams/abduazim8253/overview))
 
