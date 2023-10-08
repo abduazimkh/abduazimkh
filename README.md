@@ -37,7 +37,7 @@
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="80"/> </a>
 
 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com//show/376344/python.svg" alt="python" width="100" height="100"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com//show/376344/python.svg" alt="python" width="130" height="130"/> </a> 
     
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a>   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/> </a> </p>
 
