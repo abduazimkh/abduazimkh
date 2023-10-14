@@ -1,4 +1,4 @@
-[![MasterHead](https://marketplace.canva.com/EAENvpM8lg0/1/0/1600w/canva-clean-work-place-linkedin-banner-ENugiXwwVkE.jpg)](https://sherozbek-dev.netlify.app/)
+[![MasterHead](https://marketplace.canva.com/EAENvpM8lg0/1/0/1600w/canva-clean-work-place-linkedin-banner-ENugiXwwVkE.jpg)](https://flowcv.me/abduazim)
 <h1 align="center">Assalamu Alaykum 👋, I'm Abduazim</h1>
 <h3 align="center">A hardworking front end developer from Uzbekistan</h3>
 
