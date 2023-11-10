@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
 
-- 💬 Ask me about **React, Nextjs, TypeScripy, Astro**
+- 💬 Ask me about **React, Nextjs, TypeScripy**
 
 - 📫 How to reach me **azimjon8253@gmail.com**
 
