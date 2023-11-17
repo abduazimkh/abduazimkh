@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
 
-- 💬 Ask me about **React, Nextjs, TypeScripy**
+- 💬 Ask me about **React, Redux, Nextjs, TypeScript**
 
 - 📫 How to reach me **azimjon8253@gmail.com**
 
