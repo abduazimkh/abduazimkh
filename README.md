@@ -2,13 +2,13 @@
 <h1 align="center">Assalamu Alaykum 👋, I'm Abduazim</h1>
 <h3 align="center">A hardworking front end developer from Uzbekistan</h3>
 
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/abduazim8253](https://app.netlify.com/teams/abduazim8253/overview)
 
 - 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
 
-- 💬 Ask me about **React, Redux, Nextjs, TypeScript**
+- 💬 Ask me about **React, Redux, TypeScript**
 
 - 📫 How to reach me **azimjon8253@gmail.com**
 
