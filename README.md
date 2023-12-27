@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/abduazim8253](https://app.netlify.com/teams/abduazim8253/overview)
+- 👨‍💻 All of my projects are available at [https://www.abduazimkh.uz](https://www.abduazimkh.uz/)
 
 - 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
 
