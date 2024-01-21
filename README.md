@@ -2,7 +2,6 @@
 <h1 align="center">Assalamu Alaykum 👋, I'm Abduazim</h1>
 <h3 align="center">A hardworking front end developer from Uzbekistan</h3>
 
-- 🌱 I'm currently learning **Next, Astro**
 
 - 👨‍💻 All of my projects are available at [https://www.abduazimkh.uz](https://www.abduazimkh.uz/)
 
