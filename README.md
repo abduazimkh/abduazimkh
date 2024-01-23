@@ -2,14 +2,7 @@
 <h1 align="center">Assalamu Alaykum 👋, I'm Abduazim</h1>
 <h3 align="center">A hardworking front end developer from Uzbekistan</h3>
 
-
-- 👨‍💻 All of my projects are available at [https://www.abduazimkh.uz](https://www.abduazimkh.uz/)
-
 - 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
-
-- 💬 Ask me about **React, Redux, TypeScript, Next, Astro**
-
-- 📫 How to reach me **azimjon8253@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
