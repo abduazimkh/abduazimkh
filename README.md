@@ -1,9 +1,7 @@
 [![MasterHead](https://marketplace.canva.com/EAENvpM8lg0/1/0/1600w/canva-clean-work-place-linkedin-banner-ENugiXwwVkE.jpg)](https://flowcv.me/abduazim)
 <h1 align="center">Assalamu Alaykum 👋, I'm Abduazim</h1>
-<h3 align="center">A hardworking front end developer from Uzbekistan</h3>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+JS+Developer;)
-
 
 - 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
 
