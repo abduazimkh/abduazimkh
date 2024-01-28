@@ -7,14 +7,21 @@
 
 - ⚡ Fun fact **I am Funny**
 
+<div style="display: flex" >
+
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/Hudoyberdiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/Hudoyberdiyev" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/abduazim-khudoyberdiyev-3b212128a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abduazim-khudoyberdiyev-3b212128a/" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/21146715/abduazim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21146715/abduazim" height="50" width="50" /></a>
 <a href="https://www.instagram.com/abduazim_kh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abduazim_kh/" height="50" width="50" /></a>
-</p>  <h3 align="left">Support:</h3>
+</p>
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abduazimkh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sherozbek" /></a></p><br><br>
+
+    
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
