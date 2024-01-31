@@ -1,10 +1,6 @@
 
 <h1 align="center">Assalamu Alaykum 👋, I'm Abduazim</h1>
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+JS+Developer;)
-
-- 📝 I regularly write articles on [https://t.me/talkitbro](https://t.me/talkitbro)
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
