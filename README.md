@@ -1,4 +1,4 @@
-<h1 align="center>Abduazim Khudoyberdiyev</h1>
+<h1 align="center">Abduazim Khudoyberdiyev</h1>
 
 <p align="center"> ⚡ Fun fact <b> I am Funny</b></p>
 
