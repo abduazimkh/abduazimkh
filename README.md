@@ -1,11 +1,11 @@
-<h1>Abduazim Khudoyberdiyev</h1>
+<h1 align="center">Abduazim Khudoyberdiyev</h1>
 
-<p> ⚡ Fun fact <b> I am Funny</b></p>
-<div>
+<p align="center" > ⚡ Fun fact <b> I am Funny</b></p>
+<div align="center">
   I am Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 </div>
 
-<div width="100%">
+<div align="center">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduazimkh&theme=react)
 
