@@ -5,7 +5,7 @@
   I am Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 </div>
 
-<div align="center" style="margin-top: 40px">
+<div align="center" style="margin-top: 40px; display: block;">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduazimkh&theme=react)
 
